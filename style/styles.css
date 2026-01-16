@@ -1,0 +1,46 @@
+h1 {
+  color: blueviolet;
+  background-color: beige;
+  margin: 30px 20px;
+  padding: 5px;
+}
+
+h2 {
+  color: skyblue;
+  margin-left: 20px;
+}
+
+h3 {
+  color: green;
+  margin-left: 20px;
+}
+
+ul, ol {
+    color: navy;
+    background-color: beige;
+    font-size: large;
+    margin: 0 20px;
+}
+
+li {
+    padding: 5px 0 5px 5px;
+    color: deeppink;
+}
+
+.image {
+    margin: 0 20px;
+}
+
+#des {
+    margin: 20px;
+    color:aquamarine;
+    background-color: brown;
+}
+
+#home {
+    color: black;
+    background-color: navajowhite;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
